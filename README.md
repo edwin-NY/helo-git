@@ -1,2 +1,2 @@
 # helo-git
-learning to use git
+learning to use gitkwvlib ionioelv avaegaaf #random stuff
